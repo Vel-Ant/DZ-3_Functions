@@ -102,6 +102,6 @@ class DZ_3_2_CommissionKtTest {
 
         val result = commission(count, cardBillType)
 
-        assertEquals(637, result)
+        assertEquals(638, result)
     }
 }
